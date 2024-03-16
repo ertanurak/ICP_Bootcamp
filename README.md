@@ -8,10 +8,11 @@ Welcome to the ICP Bootcamp Projects repository! Here, you'll find a collection 
   Description: This repository contains an Actor Calculator project implemented in Motoko. The Actor Calculator is a simple calculator application that supports basic arithmetic operations such as addition, subtraction, multiplication, and division, all implemented using asynchronous functions in the Motoko programming language.
 
 - **[phoneBook]**
-  Description: Brief description of Project 2.
+  Description: This repository contains a simple phone book application implemented in Motoko. The Motoko Phone Book allows users to insert new entries and lookup existing entries by name.
+
 
 - **[toDo]**
-  Description: Brief description of Project 3.
+  Description: This repository contains a basic to-do list application implemented in Motoko. The Motoko To-Do List enables users to add new tasks, mark tasks as completed, and view all tasks in the list.
 
 - ...
 
