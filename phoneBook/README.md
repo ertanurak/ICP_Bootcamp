@@ -32,19 +32,19 @@ await phoneBook.insert("John", { desc = "John's Description"; phone = "+12345678
 
 // Lookup an entry by name
 let entry = await phoneBook.lookup("John");
+```
 
-
-# Data Types
+## Data Types
 
 Name: Represents the name of a person in the phone book.
 Phone: Represents the phone number associated with a person.
 Entry: Represents an entry in the phone book with a description and a phone number.
 
-# Functions
+## Functions
 
 insert(name: Name, entry: Entry): Adds a new entry to the phone book with the provided name and entry.
 lookup(name: Name): Searches for an entry in the phone book by name and returns it if found.
 
-# Contribution
+## Contribution
 
 If you'd like to contribute to the Motoko Phone Book project, feel free to fork this repository, make your changes, and submit a pull request. We welcome contributions from the community!
