@@ -48,3 +48,7 @@ let result4 = await calculator.division(3);
 
 // Clear the calculator
 await calculator.clear();
+```
+## Contribution
+
+If you'd like to contribute to the Motoko Actor Calculator project, feel free to fork this repository, make your changes, and submit a pull request. We welcome contributions from the community!
