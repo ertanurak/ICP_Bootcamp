@@ -44,3 +44,18 @@ let todos = await assistant.showTodos();
 
 // Clear completed to-do items
 await assistant.clearCompleted();
+```
+## Data Types
+
+ToDo: Represents a to-do item with a description and completion status.
+
+## Functions
+
+addTodo(description: Text): Adds a new to-do item with the provided description and returns its ID.
+completeTodo(id: Nat): Marks the to-do item with the given ID as completed.
+showTodos(): Returns a formatted text containing all to-do items.
+clearCompleted(): Removes completed to-do items from the list.
+
+## Contribution
+
+If you'd like to contribute to the Motoko Assistant To-Do List project, feel free to fork this repository, make your changes, and submit a pull request. We welcome contributions from the community!
