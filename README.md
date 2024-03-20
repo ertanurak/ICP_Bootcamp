@@ -14,7 +14,7 @@ Welcome to the ICP Bootcamp Projects repository! Here, you'll find a collection 
 - **[toDo]**
   Description: This repository contains a basic to-do list application implemented in Motoko. The Motoko To-Do List enables users to add new tasks, mark tasks as completed, and view all tasks in the list.
 
-- **[superHero]**
+- **[superhero]**
   Description: This repository contains a simple actor named "Superheroes" for managing superhero data. The actor provides functionalities to create, read, update, and delete superhero data.
   
 - ...
