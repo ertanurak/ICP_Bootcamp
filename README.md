@@ -16,10 +16,10 @@ Welcome to the ICP Bootcamp Projects repository! Here, you'll find a collection 
 - **[superhero]**
   Description: This repository contains a simple actor named "Superheroes" for managing superhero data. The actor provides functionalities to create, read, update, and delete superhero data.
 
-  **[exponantiation]**
+- **[exponantiation]**
   Description: This repository contains an actor named "Exponentiation" written in the Motoko programming language. The actor is designed to efficiently calculate exponentiation operations. It offers functionalities to set the base number and compute the exponentiation result for a given exponent using query functions.
   
-  **[token_transfer]**
+- **[token_transfer]**
   Description: This code snippet defines an actor responsible for transferring tokens between accounts using the ICRC1 ledger canister. The actor provides a "transfer" function that facilitates the transfer of tokens from one account to another. It handles various parameters such as the amount to transfer, the recipient account, and transaction metadata. Additionally, error handling is implemented to manage any potential transfer failures or exceptions. Overall, this actor simplifies the process of token transfers within the ICRC1 ledger canister environment.
   
 - ...
