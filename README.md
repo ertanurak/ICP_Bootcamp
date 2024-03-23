@@ -21,6 +21,9 @@ Welcome to the ICP Bootcamp Projects repository! Here, you'll find a collection 
   
 - **[token_transfer]**
   Description: This code snippet defines an actor responsible for transferring tokens between accounts using the ICRC1 ledger canister. The actor provides a "transfer" function that facilitates the transfer of tokens from one account to another. It handles various parameters such as the amount to transfer, the recipient account, and transaction metadata. Additionally, error handling is implemented to manage any potential transfer failures or exceptions. Overall, this actor simplifies the process of token transfers within the ICRC1 ledger canister environment.
+
+- **[basic_dao]**
+  Description: The Basic DAO (Decentralized Autonomous Organization) is a Motoko smart contract designed for managing token transfers, proposal submissions, voting, and system parameter updates within a decentralized network. It offers a straightforward framework for participants to engage in governance activities such as proposing, voting on, and executing changes to the network's parameters and functionalities.
   
 - ...
 
